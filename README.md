@@ -1,2 +1,10 @@
 # AI/ML-Assignments
-A collection of my AI assignments and projects
+
+This repository contains my assignments for the Artificial Intelligence (AI) Machine Learning (ML) course.  
+Each folder corresponds to one assignment and includes the necessary code, reports, or notebooks.
+
+---
+
+
+
+
