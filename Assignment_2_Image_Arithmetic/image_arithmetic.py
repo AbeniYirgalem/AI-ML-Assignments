@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 # Load image
-image = cv2.imread("trex.png")
+image = cv2.imread("Assignment_2_Image_Arithmetic/trex.png")
 cv2.imshow("Original Image", image)
 
 # -----------------------------
