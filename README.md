@@ -1,7 +1,7 @@
 # AI/ML-Assignments
 
 This repository contains my assignments for the Artificial Intelligence (AI) and Machine Learning (ML) course.  
-Each folder corresponds to one assignment and includes the necessary code, reports, or notebooks.
+Each folder corresponds to one assignment and includes the necessary code and notebooks.
 
 ## Assignments
 
@@ -67,6 +67,6 @@ Each folder corresponds to one assignment and includes the necessary code, repor
 
 ## Usage
 
-For each assignment, navigate to the respective folder and follow the instructions in the README file. Example for the LSTM character generator:
+For each assignment, navigate to the respective folder and follow the instructions in the README file.
 
 
